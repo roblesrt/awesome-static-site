@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My awesome Betlog site</title>
+    <link>https://example.org/post/</link>
+    <description>Recent content in Posts on My awesome Betlog site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Oct 2020 17:20:23 +0800</lastBuildDate><atom:link href="https://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Another Post</title>
+      <link>https://example.org/post/another-post/</link>
+      <pubDate>Thu, 08 Oct 2020 17:20:23 +0800</pubDate>
+      
+      <guid>https://example.org/post/another-post/</guid>
+      <description>Another fantastic post on the blog eh? Want to read more about me?</description>
+    </item>
+    
+    <item>
+      <title>Hello Kulaga!</title>
+      <link>https://example.org/post/hello-world/</link>
+      <pubDate>Thu, 08 Oct 2020 08:00:28 +0800</pubDate>
+      
+      <guid>https://example.org/post/hello-world/</guid>
+      <description>Welcome Kulaga!
+There&amp;rsquo;s not much here yet kulaga!</description>
+    </item>
+    
+  </channel>
+</rss>
