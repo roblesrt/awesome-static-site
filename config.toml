@@ -1,4 +1,5 @@
-baseurl = "https://example.org/"
+#baseurl = "https://example.org/"
+baseurl = "https://my-awesome-static-site.netlify.app/"
 languageCode = "en-us"
 title = "My awesome Betlog site"
 # Define how many pages appear per site
