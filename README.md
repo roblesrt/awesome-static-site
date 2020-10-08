@@ -1,1 +1,1 @@
-# hugo1
+# Hugo static site 1
